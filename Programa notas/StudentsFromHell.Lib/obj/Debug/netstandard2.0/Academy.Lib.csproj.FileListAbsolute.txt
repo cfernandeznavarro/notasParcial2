@@ -1,0 +1,24 @@
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.deps.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.csprojAssemblyReference.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfoInputs.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfo.cs
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.deps.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\obj\Debug\netstandard2.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.deps.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\StudentsFromHell.Lib\bin\Debug\netstandard2.0\Academy.Lib.pdb

@@ -1,0 +1,42 @@
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.exe
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.deps.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.dev.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csprojAssemblyReference.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfoInputs.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfo.cs
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csproj.CopyComplete
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\ConsoleApp2_oop_Solution\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.exe
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.deps.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csproj.CopyComplete
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\ConsoleApp2_oop_Solution_Parcial2\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.exe
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.deps.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.App.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\bin\Debug\netcoreapp3.0\Academy.Lib.pdb
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.csproj.CopyComplete
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.dll
+C:\Users\Cristina\Desktop\C#\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\Programa notas\ConsoleApp1\obj\Debug\netcoreapp3.0\Academy.App.pdb

@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Academy.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Academy.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy.Lib/1.0.0": {
+      "type": "project",
+      "path": "../StudentsFromHell.Lib/Academy.Lib.csproj",
+      "msbuildProject": "../StudentsFromHell.Lib/Academy.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Academy.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cristina\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Cristina\\Desktop\\C#\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\Programa notas\\ConsoleApp1\\Academy.App.csproj",
+      "projectName": "Academy.App",
+      "projectPath": "C:\\Users\\Cristina\\Desktop\\C#\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\Programa notas\\ConsoleApp1\\Academy.App.csproj",
+      "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cristina\\Desktop\\C#\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\Programa notas\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Cristina\\Desktop\\C#\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\Programa notas\\StudentsFromHell.Lib\\Academy.Lib.csproj": {
+              "projectPath": "C:\\Users\\Cristina\\Desktop\\C#\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\linkbub-trainingexample1_averagemarks-2e6f3a3dd6b1\\Programa notas\\StudentsFromHell.Lib\\Academy.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
